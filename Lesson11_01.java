@@ -10,7 +10,7 @@ public class Lesson11_01 {
       sum += arr[i];
       // System.out.println(arr[i]);
       System.out.println(sum);
-      
+
     }
 
     for (int j = 0; j <= 2; j++) {
